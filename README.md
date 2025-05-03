@@ -21,4 +21,4 @@ Project ini dibuat untuk:
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/IchsanJunaedi/python-basic-syntax.git
+   git clone https://github.com/IchsanJunaedi/basic-python-syntax.git
